@@ -18,3 +18,26 @@
 - REST: For API integration.
 - Python and Django: For creating the backend logic.
 - MySQL: As the database for data storage and management.
+
+## UI/UX Design Planning
+
+- Creating a user-friendly and visually appealing interface is key to delivering an exceptional booking platform experience. Below is the planning process for the UI/UX design of the Airbnb Clone.
+
+### Design goals
+
+- Provide a clean and modern layout for property listings and details.
+- Provide the booking process is seamless and intuitive for users.
+- Ensure responsive design for mobile and desktop views.
+- Provide seamless navigation between pages.
+
+### Key features to be implemented
+
+| Pages                 | Description                                                                                                                                                                 |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Property Listing View | Displays various property listings with essential details and images, featuring key elements such as the title, price, brief description, and an image for each property.   |
+| Listing Detailed View | Detailed view of a specific property, including extensive information and images,featured key elements such as Property name, location, description, images, and amenities. |
+| Simple Checkout View  | Streamlined process for booking properties,featuring key elements such as Date selection, guest count, and booking summary.                                                 |
+
+### Importance of User-Friendly Design
+
+- to ensure users can easily navigate, find relevant information, and complete their bookings without confusion or frustration.
