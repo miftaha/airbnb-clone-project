@@ -63,9 +63,14 @@
   - 600
   - 700
 - Font size
+
   - Headings
     - H1:69px
     - H2:50px
     - H3:39px
     - H4:22px and 29px
   - Button texts:14px,18px,19px and 20px
+
+    3.Importance of Identifying Design Properties
+
+  - Understanding and documenting design properties like colors, typography, and spacing during the mockup phase is crucial for consistency, accessibility,and efficiency.
