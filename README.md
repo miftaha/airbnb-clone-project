@@ -145,3 +145,43 @@
   - Ensure continuous improvement within the team.
   ### Importance of Defined Roles
 - Clearly defined roles and responsibilities are essential to ensure accountability,improve collaboration and streamline development
+
+## UI Component Patterns
+
+This section outlines the core UI components planned for the AirBnB Clone project. Each component is designed to be reusable, ensuring consistency and scalability throughout the application.
+
+### 1. Navbar
+
+- Description
+  - The Navbar component serves as the primary navigation bar for the application.
+  - It will include search input field,category and sign in/Sign up.
+  - Responsive design for desktop, tablet and mobile screens.
+  - Sticky positioning to remain visible during scrolling.
+
+### 2. Property Card
+
+- Description
+  - Displays essential details for individual properties, such as:
+    - Title
+    - Price
+    - Location
+    - Thumbnail image
+    - Ratings or reviews
+    - brief description
+    - Hover effects to highlight the card
+    - Clickable area leading to the detailed property view
+    - This component will appear in the property listing page to showcase available rentals.
+
+### 3. Footer
+
+- Description
+
+  - The Footer component provides users with links to important resources, including:
+
+    - Help
+    - Company
+    - Explore
+    - Terms of service
+    - Policy privacy
+    - Coke Policy
+    - Partners
