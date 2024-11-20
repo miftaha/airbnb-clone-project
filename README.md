@@ -71,6 +71,77 @@
     - H4:22px and 29px
   - Button texts:14px,18px,19px and 20px
 
-  3.Importance of Identifying Design Properties
+    3.Importance of Identifying Design Properties
 
   - Understanding and documenting design properties like colors, typography, and spacing during the mockup phase is crucial for consistency, accessibility,and efficiency.
+
+## Project Roles and Responsibilities
+
+- To ensure the AirBnB Clone project's success, each team member is assigned defined duties and responsibilities. The following is an overview of various jobs and how they contribute to the project's success:
+
+### 1. Project Manager
+
+- Responsibilities
+  - Plan the project roadmap for creating the AirBnB clone.
+  - Monitor progress and ensure adherence to timelines for features like property listing, detailed views, and booking systems.
+
+### 2. Frontend Developers
+
+- Responsibilities
+  - Build the user interface that allows users to browse, search, and book properties easily.
+  - Develop the property listing page, property detailed view, and booking system UI using React and Next.js.
+  - Implement dynamic components like filters and search bars.
+  - Ensure mobile,tablet and desktop responsiveness.
+
+### 3. Backend Developers
+
+- Responsibilities
+  - Develop and maintain server-side logic using languages such as Python and django.
+  - Create and maintain APIs for frontend integration.
+  - Implement user authentication and manage secure data storage in MySQL.
+  - Optimize server-side performance.
+
+### 4. Designers
+
+- Responsibilities
+  - Create wireframe, mockups, and prototypes in Figma.
+  - Define the color scheme, typography, and overall design system.
+  - Collaborate with developers to ensure the design is implemented accurately.
+  - Conduct usability testing to gather feedback and improve designs.
+
+### 5. QA/Testers
+
+- Responsibilities
+  - Develop and execute test plans and test cases.
+  - Perform manual and automated testing.
+  - Identify, document, and track bugs.
+  - Verify bug fixes and perform regression testing.
+  - Ensure the application meets quality standards and user requirements.
+
+### 6. DevOps Engineers
+
+- Responsibilities
+  - Automate deployment processes.
+  - Manage cloud infrastructure and server configurations.
+  - Monitor application performance and uptime.
+  - Implement continuous integration and continuous deployment (CI/CD) pipelines.
+  - Ensure security and compliance in the production environment.
+  - Maintain a smooth and efficient development and deployment process.
+
+### 7. Product Owner
+
+- Responsibilities
+  - Define and prioritize product features and requirements.
+  - Create and manage the product backlog.
+  - Act as a liaison between stakeholders and the development team.
+  - Ensure the product delivers value to users and aligns with business goals.
+  - Make decisions on scope and accept completed work.
+  ### 8. Scrum Master
+- Responsibilities
+  - Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
+  - Remove impediments that hinder the team’s progress.
+  - Foster a collaborative and productive team environment.
+  - Coach the team on Agile principles and practices.
+  - Ensure continuous improvement within the team.
+  ### Importance of Defined Roles
+- Clearly defined roles and responsibilities are essential to ensure accountability,improve collaboration and streamline development
