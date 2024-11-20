@@ -41,3 +41,31 @@
 ### Importance of User-Friendly Design
 
 - to ensure users can easily navigate, find relevant information, and complete their bookings without confusion or frustration.
+
+### Design Properties
+
+1. Color Styles
+
+- Primary Color: #34967C(for header background and buttons)
+- Secondary color: #FFA800(for texts color and buttons)
+- Text Color: #161117(for texts and buttons)
+- background color: #FFFFFF
+
+2. Typography
+
+- Font family
+  - Source Sans Pro: for hero text only
+  - Quicksand: for button and text background
+  - SF Pro Display: for sign in and sign out buttons
+- Font-weight
+  - 400
+  - 500
+  - 600
+  - 700
+- Font size
+  - Headings
+    - H1:69px
+    - H2:50px
+    - H3:39px
+    - H4:22px and 29px
+  - Button texts:14px,18px,19px and 20px
